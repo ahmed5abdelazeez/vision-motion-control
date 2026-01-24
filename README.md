@@ -1,4 +1,4 @@
-# vision-motion-system
+# vision-motion-control
 Computer Vision–Based Control System 🤖👋
 
 Overview
