@@ -2,7 +2,7 @@
 ## Step 1: Hardware Setup 
 1. Connect the Arduino (or other supported microcontroller) to your laptop using a USB cable.
 2. Open the Arduino IDE. 3.
-3. Upload the Arduino sketch located in:
+3. Upload the Arduino sketch located in hardware
 4. Make sure the upload completes successfully.
 5. Identify the serial port used by the board: - Windows: COM3, COM4, etc. - Linux: /dev/ttyUSB0 or /dev/ttyACM0 - macOS: /dev/tty.usbmodemXXXX ---
 
