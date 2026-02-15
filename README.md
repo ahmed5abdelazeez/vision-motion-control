@@ -70,6 +70,7 @@ Contributors:
 - Humam ([@HumamZaki](https://github.com/HumamZaki))
 - Liwaa ([@liwaa00](https://github.com/liwaa00))
 - Yasser ([@Yasser2088-web](https://github.com/Yasser2088-web))
+- Duaa ([@duaa-alibrahim](https://github.com/duaa-alibrahim))
 
 Thank you to everyone who contributed to this project!
 ⸻
